@@ -4,7 +4,7 @@ Version: 0.0.1
 Author: Mukesh Sethi
 Author-email: sethi.mukeshjain@gmail.com
 Requires-Dist: openai
-Requires-Dist: langchain
+Requires-Dist: langchain-openai
 Requires-Dist: streamlit
 Requires-Dist: python-dotenv
 Requires-Dist: PyPDF2
